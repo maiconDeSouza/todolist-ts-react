@@ -25,7 +25,6 @@
 <h2>Layout Mobile</h2>
 <img
     align="center"
-    width="300"
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/todolist-ts-react/todo-mobile.gif"
 />
 
@@ -63,7 +62,6 @@ npm run dev
 
 <img
     align="center"
-    width="300"
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/todolist-ts-react/rodando-o-projeto.gif"
 />
 
