@@ -1,0 +1,47 @@
+.container header{
+    display: flex;
+    justify-content: space-between;
+
+    height: 2.6875rem;
+    padding-top: 0.15625rem;
+}
+
+.container header p{
+    display: flex;
+    gap: 0.5rem;
+
+    font-size: 0.875rem;
+    font-weight: bold;
+}
+
+.container header p:nth-of-type(1){
+    color: var(--blue);
+}
+
+.container header p:nth-of-type(2){
+    color: var(--purple);
+}
+
+.container header p span{
+    width: 1.5625rem;
+    height: 1.1875rem;
+
+    background-color: var(--gray-400);
+
+    border-radius: 999px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 0.75rem;
+    font-weight: bold;
+    color: var(--gray-200);
+}
+
+.container main{
+    border-top: 1px solid var(--gray-300);
+    border-radius: 8px;
+
+    padding-top: 5rem;
+}

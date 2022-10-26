@@ -1,0 +1,9 @@
+.containerHeader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 12.5rem;
+
+    background-color: var(--gray-700);
+}
