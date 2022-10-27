@@ -23,12 +23,12 @@ export function ViewTasks({id, task, done, transport}:PropsViewTasks){
 
     return (
         <div className={styles.taskContainer}>
-            <div className={styles.checkbox} onClick={changeState}>
+            <div className={styles.checkbox} onClick={changeState} role="button">
                 <div className={isDone ? styles.checked : ''}>
                     <span className={isDone ? styles.checked : ''}></span>
                 </div>
             </div>
-            <div className={styles.task} onClick={changeState}>
+            <div className={styles.task} onClick={changeState} role="button">
                 <p className={isDone ? styles.checked : ''}>
                     {task} 
                 </p>
