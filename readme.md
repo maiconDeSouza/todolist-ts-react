@@ -18,6 +18,15 @@
 <p>
     As funções do To Do List são as tradicionais de criação e exclusão de Tasks. Também foi acrescentado um contador na parte de cima que informa quantas tasks existem e quantas já foram finalizadas.
 </p>
+
+<p>
+    Acesse o  <a href="https://todolistreactts.maiconsouza.com.br/">Projeto</a> 
+</p>
+
+<p>
+    Acesse o meu  <a href="https://portfolio.maiconsouza.com.br/">Portfólio</a> 
+</p>
+
 <img 
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/todolist-ts-react/todo-web.gif"
 />
